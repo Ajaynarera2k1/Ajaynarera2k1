@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaynarera2k1&label=Profile%20views&color=0e75b6&style=flat" alt="ajaynarera2k1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaynarera2k1" alt="ajaynarera2k1" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/ajaynarera9721" target="blank"><img src="https://img.shields.io/twitter/follow/ajaynarera9721?logo=twitter&style=for-the-badge" alt="ajaynarera9721" /></a> </p>
 
