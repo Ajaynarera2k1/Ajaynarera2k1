@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/JqmupuTVZYaQX5s094/200.webp?cid=ecf05e47p8iyxyy4gsuog2hkp7x7t6ht6on6pnrvcts1ymlb&ep=v1_gifs_search&rid=200.webp&ct=g">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaynarera2k1&label=Profile%20views&color=0e75b6&style=flat" alt="ajaynarera2k1" /> </p>
