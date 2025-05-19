@@ -12,13 +12,13 @@
 
 <p align="left"> <a href="https://twitter.com/ajaynarera9721" target="blank"><img src="https://img.shields.io/twitter/follow/ajaynarera9721?logo=twitter&style=for-the-badge" alt="ajaynarera9721" /></a> </p>
 
-- 🔭 I’m currently working on **FASTFEST**
+- 🔭 I’m currently working on **SHAREKIT**
 
 - 🌱 I’m currently learning **BACKEND DEVELOPMENT AND DEVOPS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-bio-web.netlify.app/](https://portfolio-bio-web.netlify.app/)
 
-- 💬 Ask me about **FRONTEND DEVELOPMENT**
+- 💬 Ask me about **FULL STACK DEVELOPMENT**
 
 - 📫 How to reach me **nareraajay6@gmail.com**
 
