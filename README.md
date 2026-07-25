@@ -1,129 +1,201 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<!-- ================================================================
+  GITHUB PROFILE README GUIDE
+  Replace every [YOUR_USERNAME], [Your Name], [your.email], etc.
+  This file itself IS your github.com/<username>/<username>/README.md
+================================================================= -->
+
 <div align="center">
 
-# Ajay Narera
+<!-- Animated wave banner (auto-generates, no image upload needed) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Hi%20There,%20I'm%20[Your%20Name]&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20%26%20Flutter%2FFirebase&descAlignY=55&descSize=18" width="100%"/>
 
-**Full Stack Developer · MERN · API Engineer · AI Enthusiast**
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;Flutter+%26+Firebase+Engineer;I+build+full-stack+apps+that+scale;Always+learning,+always+shipping&font=Fira+Code&center=true&width=600&height=50&color=06B6D4&vCenter=true&size=22"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaynarera2k1)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nareraajay1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajaynarera2k1)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ajaynarera2k1&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)](https://github.com/Ajaynarera2k1)
+<br/>
+
+<!-- Social badges -->
+<a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:[your.email@example.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://[your-portfolio].com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://twitter.com/[your-handle]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<!-- Coding GIF banner - grabs attention immediately -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript-Dark.svg" width="0" height="0"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=octocat&repo=Spoon-Knife" width="0" height="0"/>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500"/>
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```javascript
+const [Name] = {
+    role: "MERN Stack & Flutter/Firebase Developer",
+    location: "[Your City, Country]",
+    education: "[Your Degree / College]",
+    currentlyBuilding: "[Current project name]",
+    funFact: "[Something interesting about you]",
+};
+```
+
+- 🔭 Currently working on **[project name]**
+- 🌱 Currently learning **[new tech you're picking up]**
+- 💬 Ask me about **React, Node.js, MongoDB, Express, Flutter, Firebase**
+- 📫 Reach me at **[your.email@example.com]**
+- ⚡ Fun fact: **[something fun]**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**MERN Stack**
+
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,redux,tailwind,html,css,js" />
+
+**Flutter / Firebase**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,docker,aws" />
 
 </div>
 
 ---
 
-## About Me
-
-I'm a **Full Stack Developer** based in Sikar, Rajasthan, India, with hands-on experience building scalable web applications, RESTful APIs, and production-grade MERN stack projects. I focus on writing clean, maintainable code and turning ideas into real-world products — from initial design to deployment.
-
-- 🔭 Currently working on full-stack web apps, scalable APIs, and AI-powered tools
-- 🌱 Deepening expertise in **System Design**, **Advanced MERN**, and **AI-assisted Development**
-- 💬 Ask me about **JavaScript · React · Node.js · Express · MongoDB · API Design**
-- 🎯 Goal: Build impactful, production-ready solutions at scale
-- ⚡ Fun fact: I debug faster with calm music in the background
-
----
-
-## Tech Stack
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## Featured Projects
-
-### Enterprise Task Management System
-> Full-stack MERN application with authentication, role-based access control, and real-time updates via WebSockets. Built to handle team collaboration at scale.
-
-`React` `Node.js` `MongoDB` `JWT` `WebSockets` `Express`
-
----
-
-### AI Interview Preparation Tool
-> AI-powered web app that helps developers prepare for technical interviews using ChatGPT and custom prompt engineering scripts.
-
-`React` `Express` `OpenAI API` `Node.js`
-
----
-
-### Advanced File Upload Service
-> Production-ready file upload and processing pipeline with cloud storage integration, validation, and optimized handling for large files.
-
-`Node.js` `Express` `Multer` `AWS S3`
-
----
-
-### UI Clone Projects
-> Pixel-perfect UI recreations of platforms like Discord and Razorpay — demonstrating advanced HTML, CSS, Tailwind, and attention to detail.
-
-`HTML` `CSS` `Tailwind CSS` `JavaScript`
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaynarera2k1&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaynarera2k1&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=[YOUR_USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### MERN Stack
+
+<table>
+<tr>
+<td width="50%">
+
+**[Project Name 1]** 🛒
+<br/>
+Full-stack e-commerce app with cart, auth, payments.
+<br/>
+`React` `Node.js` `Express` `MongoDB` `JWT`
+<br/>
+[🔗 Live Demo](#) · [📂 Code](#)
+
+</td>
+<td width="50%">
+
+**[Project Name 2]** 📋
+<br/>
+Real-time task manager with sockets & dashboards.
+<br/>
+`React` `Express` `Socket.io` `MongoDB`
+<br/>
+[🔗 Live Demo](#) · [📂 Code](#)
+
+</td>
+</tr>
+</table>
+
+### Flutter / Firebase
+
+<table>
+<tr>
+<td width="50%">
+
+**[Project Name 3]** 💬
+<br/>
+Cross-platform chat app with real-time messaging.
+<br/>
+`Flutter` `Firebase Auth` `Firestore` `FCM`
+<br/>
+[🔗 Live Demo](#) · [📂 Code](#)
+
+</td>
+<td width="50%">
+
+**[Project Name 4]** 📱
+<br/>
+Fitness tracker with cloud sync & notifications.
+<br/>
+`Flutter` `Firebase` `Provider` `Cloud Functions`
+<br/>
+[🔗 Live Demo](#) · [📂 Code](#)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  
+  <!-- Auto-fetch pinned repos as cards -->
+  <a href="https://github.com/[YOUR_USERNAME]/[repo-1]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[repo-1]&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/[YOUR_USERNAME]/[repo-2]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[repo-2]&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/[YOUR_USERNAME]/[repo-3]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[repo-3]&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/[YOUR_USERNAME]/[repo-4]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[repo-4]&theme=tokyonight&hide_border=true" />
+  </a>
 
 </div>
 
 ---
 
-## Current Focus
-
-| Area | Details |
-|---|---|
-| 🏗 Architecture | Building production-level MERN applications with clean separation of concerns |
-| 📐 System Design | Studying scalable system design patterns and distributed architectures |
-| 🤖 AI Integration | Leveraging ChatGPT, Claude, and Gemini APIs to build smarter applications |
-| ✍️ Code Quality | Writing enterprise-grade, well-documented, and testable JavaScript |
-
----
-
-## Let's Connect
-
-I'm open to collaborating on interesting full-stack projects, discussing API design, or talking through system architecture. Feel free to reach out.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajaynarera2k1)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nareraajay1@gmail.com)
-
----
+## 🎯 A Fun Coding GIF (breaks the wall of text)
 
 <div align="center">
-
-*Keep learning. Keep building. Keep growing.*
-
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="450"/>
 </div>
 
+---
 
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:[your.email@example.com]"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/[your-handle]"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://leetcode.com/[your-handle]"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/[YOUR_USERNAME]/count.svg" alt="visitor count"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer" width="100%"/>
