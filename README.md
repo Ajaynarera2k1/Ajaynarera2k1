@@ -99,7 +99,7 @@ const [Name] = {
 
 ### MERN Stack
 
-<table>
+<!-- <table>
 <tr>
 <td width="50%">
 
@@ -153,7 +153,7 @@ Fitness tracker with cloud sync & notifications.
 
 </td>
 </tr>
-</table>
+</table> -->
 
 <div align="center">
   
